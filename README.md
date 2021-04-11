@@ -37,3 +37,7 @@ Este hook nos permite pasar un value de un componente padre a cualquiera de sus 
 - Links y NavLinks
 - CreateContext
 - SPA ( Single Page Application )
+
+## Testing
+
+Las respectivas pruebas sobre los Hooks, CustomHooks y Componentes ya fueron realizadas.
